@@ -46,7 +46,7 @@
     "com.telerik.plugin.telerikanalytics": {
       "AUTO_TRACK_EXCEPTIONS": "True",
       "AUTO_TRACK_KENDO_EVENTS": "True",
-      "PRODUCT_ID": "3e3aef7d0644464cad0de9f2843cbc55"
+      "PRODUCT_ID": "f0d2b3a030a1402a855f3ce0881472e1"
     }
   }
 }
