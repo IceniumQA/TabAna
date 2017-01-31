@@ -1,0 +1,45 @@
+{
+  "ProjectName": "TabStAna",
+  "ProjectGuid": "a0e38719-a184-4954-8240-e06632c34edc",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.TabStAna",
+  "DisplayName": "TabStAna",
+  "Author": "",
+  "Description": "TabStAna",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{1235d7ae-af9c-4bd2-92a1-4d58cec74794}",
+  "WP8ProductID": "{4709a6fe-8a97-4296-be9f-7e420af6723c}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.TabStAna",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
